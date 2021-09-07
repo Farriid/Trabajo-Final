@@ -1,0 +1,54 @@
+
+.titulos h1{
+ margin-left: 2em;
+ margin-top: 2em;
+ height: 150px;
+ left: 130px;
+ top: 350px;
+ font-family: Raleway;
+ font-style: normal;
+ font-weight: normal;
+ font-size: 144px;
+ line-height: 169px;
+ color: #FFFFFF;
+}
+.titulos h2{
+    margin-left: 8em;
+    width: 643px;
+    height: 87px;
+    left: 398px;
+    top: 560px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 72px;
+    line-height: 85px;
+    color: #0075FF;
+}
+nav{
+    margin-left: 38em;
+    width: 444px;
+    height: 43px;
+    left: 775px;
+    top: 13px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 36px;
+    line-height: 42px;
+    
+}
+.rec{
+    position: absolute;
+    width: 250px;
+    height: 42px; 
+    left: 17px;
+    top: 14px;
+
+font-family: Raleway;
+font-size: 36px;
+}
+
+
+
+

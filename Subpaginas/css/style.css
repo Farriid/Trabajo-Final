@@ -1,0 +1,24 @@
+body{
+    background-color: tomato;
+}
+.tit{
+    font-family: Raleway;
+    font-size: 50px;
+    position:absolute;
+    height: 30px;
+    margin-left: 300px;
+    margin-top: 100px; 
+}   
+nav{
+    font-family: Raleway;
+    display: inline-block;
+    text-decoration: none;
+    background-image: linear-gradient(
+45deg, #db4619 0%, #be1b1b 99%, #a51515 100%);
+    padding: 12px 15px;
+    border-radius: 8px;
+    color: white;
+    margin-top: 600px;
+    margin-left: 800px;
+    font-size: 50px;
+}
